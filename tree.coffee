@@ -1,4 +1,4 @@
-slugify = require 'cozy-slug'
+{slugify} = require 'cozy-slug'
 
 # JS object with some feature to add easily properties from a string
 # representation.
