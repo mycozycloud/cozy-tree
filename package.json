@@ -1,0 +1,23 @@
+{
+  "name": "cozy-tree",
+  "version": "0.0.1",
+  "description": "Cozy-Tree provides two tree structures used by Cozy application",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mycozycloud/cozy-tree"
+  },
+  "keywords": [
+    "tree",
+    "cozy"
+  ],
+  "author": "Cozy",
+  "license": "see LICENSE",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "cozy-slug": "0.0.1"
+  }
+}
