@@ -1,6 +1,6 @@
 {
   "name": "cozy-tree",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cozy-Tree provides two tree structures used by Cozy application",
   "main": "index.coffee",
   "scripts": {
